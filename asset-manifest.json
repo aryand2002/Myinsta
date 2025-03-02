@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Myinsta/static/css/main.02af688e.css",
+    "main.js": "/Myinsta/static/js/main.19630cfb.js",
+    "static/media/clapper.png": "/Myinsta/static/media/clapper.4cb71a66a6fbc7fb6ebf.png",
+    "index.html": "/Myinsta/index.html",
+    "main.02af688e.css.map": "/Myinsta/static/css/main.02af688e.css.map",
+    "main.19630cfb.js.map": "/Myinsta/static/js/main.19630cfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02af688e.css",
+    "static/js/main.19630cfb.js"
+  ]
+}
