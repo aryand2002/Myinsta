@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "idName": "mr_aryan",
+        "name": "Aryan Dewangan",
+        "post": 5,
+        "followers": 260,
+        "following": 300,
+        "profilePic": "/Image/myprofile.jpg",
+        "username": "aryand2002",
+        "password": "123"
+    },
+    {
+        "id": 2,
+        "idName": "krishna_kumar",
+        "name": "Krishna kumar",
+        "post": 8,
+        "followers": 2760,
+        "following": 330,
+        "profilePic": "/Image/img13.jpg",
+        "username": "krishna2002",
+        "password": "123"
+    },
+    {
+        "id": 3,
+        "idName": "sumant_sahu",
+        "name": "sumant sahu",
+        "post": 4,
+        "followers": 260,
+        "following": 200,
+        "profilePic": "/Image/img14.jpg",
+        "username": "sumant2002",
+        "password": "123"
+    }
+]
